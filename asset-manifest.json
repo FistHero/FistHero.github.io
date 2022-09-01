@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.8ff31c84.css",
-    "main.js": "/static/js/main.ff127be0.js",
+    "main.css": "/static/css/main.414a9dd0.css",
+    "main.js": "/static/js/main.f00007d1.js",
     "static/js/190.07575274.chunk.js": "/static/js/190.07575274.chunk.js",
     "static/js/681.6e7c8b5b.chunk.js": "/static/js/681.6e7c8b5b.chunk.js",
     "static/js/764.29daa98e.chunk.js": "/static/js/764.29daa98e.chunk.js",
     "static/js/572.7980b087.chunk.js": "/static/js/572.7980b087.chunk.js",
     "static/js/920.e524443c.chunk.js": "/static/js/920.e524443c.chunk.js",
     "static/js/505.c839a12a.chunk.js": "/static/js/505.c839a12a.chunk.js",
-    "static/js/767.caa7dde6.chunk.js": "/static/js/767.caa7dde6.chunk.js",
-    "static/js/260.7b2d1f05.chunk.js": "/static/js/260.7b2d1f05.chunk.js",
+    "static/js/767.0916ea9c.chunk.js": "/static/js/767.0916ea9c.chunk.js",
+    "static/js/260.cb9b6bb6.chunk.js": "/static/js/260.cb9b6bb6.chunk.js",
     "static/js/629.c7a3956e.chunk.js": "/static/js/629.c7a3956e.chunk.js",
     "static/js/331.3da01714.chunk.js": "/static/js/331.3da01714.chunk.js",
     "static/js/27.254196c1.chunk.js": "/static/js/27.254196c1.chunk.js",
@@ -19,7 +19,7 @@
     "static/js/671.7d2186c7.chunk.js": "/static/js/671.7d2186c7.chunk.js",
     "static/js/907.18b0cea4.chunk.js": "/static/js/907.18b0cea4.chunk.js",
     "static/js/874.b430892f.chunk.js": "/static/js/874.b430892f.chunk.js",
-    "static/js/35.79672120.chunk.js": "/static/js/35.79672120.chunk.js",
+    "static/js/761.72f45b28.chunk.js": "/static/js/761.72f45b28.chunk.js",
     "static/js/878.df4e2127.chunk.js": "/static/js/878.df4e2127.chunk.js",
     "static/js/60.3b1f89d6.chunk.js": "/static/js/60.3b1f89d6.chunk.js",
     "static/js/334.afd0e94c.chunk.js": "/static/js/334.afd0e94c.chunk.js",
@@ -52,7 +52,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.8ff31c84.css",
-    "static/js/main.ff127be0.js"
+    "static/css/main.414a9dd0.css",
+    "static/js/main.f00007d1.js"
   ]
 }
