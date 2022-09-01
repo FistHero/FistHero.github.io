@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.57d5a675.css",
-    "main.js": "/static/js/main.0b68a74b.js",
+    "main.css": "/static/css/main.8ff31c84.css",
+    "main.js": "/static/js/main.ddc40683.js",
     "static/js/190.07575274.chunk.js": "/static/js/190.07575274.chunk.js",
     "static/js/681.6e7c8b5b.chunk.js": "/static/js/681.6e7c8b5b.chunk.js",
     "static/js/764.29daa98e.chunk.js": "/static/js/764.29daa98e.chunk.js",
     "static/js/572.7980b087.chunk.js": "/static/js/572.7980b087.chunk.js",
     "static/js/920.e524443c.chunk.js": "/static/js/920.e524443c.chunk.js",
     "static/js/505.c839a12a.chunk.js": "/static/js/505.c839a12a.chunk.js",
-    "static/js/767.d290c9fc.chunk.js": "/static/js/767.d290c9fc.chunk.js",
-    "static/js/260.76b2ad04.chunk.js": "/static/js/260.76b2ad04.chunk.js",
+    "static/js/767.d3bb957a.chunk.js": "/static/js/767.d3bb957a.chunk.js",
+    "static/js/260.7b2d1f05.chunk.js": "/static/js/260.7b2d1f05.chunk.js",
     "static/js/629.c7a3956e.chunk.js": "/static/js/629.c7a3956e.chunk.js",
     "static/js/331.3da01714.chunk.js": "/static/js/331.3da01714.chunk.js",
     "static/js/27.254196c1.chunk.js": "/static/js/27.254196c1.chunk.js",
@@ -22,7 +22,7 @@
     "static/js/35.79672120.chunk.js": "/static/js/35.79672120.chunk.js",
     "static/js/878.df4e2127.chunk.js": "/static/js/878.df4e2127.chunk.js",
     "static/js/60.3b1f89d6.chunk.js": "/static/js/60.3b1f89d6.chunk.js",
-    "static/js/334.9dfdd375.chunk.js": "/static/js/334.9dfdd375.chunk.js",
+    "static/js/334.afd0e94c.chunk.js": "/static/js/334.afd0e94c.chunk.js",
     "static/media/YSHaoShenTi-2.ttf": "/static/media/YSHaoShenTi-2.c2f3bc788f3a3ed2512e.ttf",
     "static/media/top-bar.png": "/static/media/top-bar.f7f80c18fbf1bea3cece.png",
     "static/media/bg-mining.png": "/static/media/bg-mining.3d50f8733abef3760613.png",
@@ -45,14 +45,14 @@
     "static/media/my-squad.png": "/static/media/my-squad.d992f74905689d11548c.png",
     "static/media/my-hero.png": "/static/media/my-hero.58cbd2bb2b6a1a48f619.png",
     "static/media/button-open-left.png": "/static/media/button-open-left.26c4e111837638d1d6f3.png",
-    "static/media/coin.png": "/static/media/coin.2715dc0bbdfe724d2e18.png",
     "static/media/button-open-right.png": "/static/media/button-open-right.76a7b7bdb37f4a3e282f.png",
+    "static/media/coin.png": "/static/media/coin.a52c4725f254abccad1b.png",
     "static/media/button-pink.png": "/static/media/button-pink.95503db04d4c7a2ac1d6.png",
     "static/media/button-gray.png": "/static/media/button-gray.6e27de6a6591945340a4.png",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.57d5a675.css",
-    "static/js/main.0b68a74b.js"
+    "static/css/main.8ff31c84.css",
+    "static/js/main.ddc40683.js"
   ]
 }
