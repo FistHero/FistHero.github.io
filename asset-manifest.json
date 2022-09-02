@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.67d0bedc.css",
-    "main.js": "/static/js/main.ea7e2b60.js",
+    "main.css": "/static/css/main.115215f2.css",
+    "main.js": "/static/js/main.607ec7e2.js",
     "static/js/190.07575274.chunk.js": "/static/js/190.07575274.chunk.js",
     "static/js/681.6e7c8b5b.chunk.js": "/static/js/681.6e7c8b5b.chunk.js",
     "static/js/764.29daa98e.chunk.js": "/static/js/764.29daa98e.chunk.js",
     "static/js/572.7980b087.chunk.js": "/static/js/572.7980b087.chunk.js",
-    "static/js/920.e524443c.chunk.js": "/static/js/920.e524443c.chunk.js",
-    "static/js/505.c839a12a.chunk.js": "/static/js/505.c839a12a.chunk.js",
-    "static/js/767.af399431.chunk.js": "/static/js/767.af399431.chunk.js",
-    "static/js/260.e9813681.chunk.js": "/static/js/260.e9813681.chunk.js",
-    "static/js/629.c7a3956e.chunk.js": "/static/js/629.c7a3956e.chunk.js",
-    "static/js/331.3da01714.chunk.js": "/static/js/331.3da01714.chunk.js",
+    "static/js/920.0a663430.chunk.js": "/static/js/920.0a663430.chunk.js",
+    "static/js/483.d0a9bcd8.chunk.js": "/static/js/483.d0a9bcd8.chunk.js",
+    "static/js/767.1f1cd71a.chunk.js": "/static/js/767.1f1cd71a.chunk.js",
+    "static/js/260.4b016af9.chunk.js": "/static/js/260.4b016af9.chunk.js",
+    "static/js/629.f5dcc029.chunk.js": "/static/js/629.f5dcc029.chunk.js",
+    "static/js/331.7b081b98.chunk.js": "/static/js/331.7b081b98.chunk.js",
     "static/js/27.254196c1.chunk.js": "/static/js/27.254196c1.chunk.js",
     "static/js/580.ae38f3b7.chunk.js": "/static/js/580.ae38f3b7.chunk.js",
     "static/js/912.ecceff60.chunk.js": "/static/js/912.ecceff60.chunk.js",
@@ -19,10 +19,10 @@
     "static/js/671.7d2186c7.chunk.js": "/static/js/671.7d2186c7.chunk.js",
     "static/js/907.18b0cea4.chunk.js": "/static/js/907.18b0cea4.chunk.js",
     "static/js/874.b430892f.chunk.js": "/static/js/874.b430892f.chunk.js",
+    "static/js/60.3b1f89d6.chunk.js": "/static/js/60.3b1f89d6.chunk.js",
     "static/js/761.72f45b28.chunk.js": "/static/js/761.72f45b28.chunk.js",
     "static/js/878.df4e2127.chunk.js": "/static/js/878.df4e2127.chunk.js",
-    "static/js/60.3b1f89d6.chunk.js": "/static/js/60.3b1f89d6.chunk.js",
-    "static/js/334.5ae13af7.chunk.js": "/static/js/334.5ae13af7.chunk.js",
+    "static/js/271.d0a5aba7.chunk.js": "/static/js/271.d0a5aba7.chunk.js",
     "static/media/YSHaoShenTi-2.ttf": "/static/media/YSHaoShenTi-2.c2f3bc788f3a3ed2512e.ttf",
     "static/media/top-bar.png": "/static/media/top-bar.f7f80c18fbf1bea3cece.png",
     "static/media/bg-mining.png": "/static/media/bg-mining.3d50f8733abef3760613.png",
@@ -34,7 +34,6 @@
     "static/media/bg-box.png": "/static/media/bg-box.ce17e9954d701ec5ec97.png",
     "static/media/start-modal-bg.png": "/static/media/start-modal-bg.a798762592df082746a0.png",
     "static/media/title-mining.png": "/static/media/title-mining.42fd24d917605354b498.png",
-    "static/media/weapon-title.png": "/static/media/weapon-title.212bbc486ebc40b21c2c.png",
     "static/media/bg-dialog.png": "/static/media/bg-dialog.3128d14247ea2c993d06.png",
     "static/media/hero-title-bar.png": "/static/media/hero-title-bar.b287c5b21348e4adf14a.png",
     "static/media/bg-select-hero.png": "/static/media/bg-select-hero.8436888039bb6febfee3.png",
@@ -52,7 +51,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.67d0bedc.css",
-    "static/js/main.ea7e2b60.js"
+    "static/css/main.115215f2.css",
+    "static/js/main.607ec7e2.js"
   ]
 }
