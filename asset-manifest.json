@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.115215f2.css",
-    "main.js": "/static/js/main.d1051cea.js",
+    "main.css": "/static/css/main.464adf7f.css",
+    "main.js": "/static/js/main.36a656da.js",
     "static/js/190.07575274.chunk.js": "/static/js/190.07575274.chunk.js",
     "static/js/681.6e7c8b5b.chunk.js": "/static/js/681.6e7c8b5b.chunk.js",
     "static/js/764.29daa98e.chunk.js": "/static/js/764.29daa98e.chunk.js",
     "static/js/572.7980b087.chunk.js": "/static/js/572.7980b087.chunk.js",
     "static/js/920.0a663430.chunk.js": "/static/js/920.0a663430.chunk.js",
     "static/js/483.d0a9bcd8.chunk.js": "/static/js/483.d0a9bcd8.chunk.js",
-    "static/js/767.d26ed453.chunk.js": "/static/js/767.d26ed453.chunk.js",
+    "static/js/767.7d52d27b.chunk.js": "/static/js/767.7d52d27b.chunk.js",
     "static/js/260.4b016af9.chunk.js": "/static/js/260.4b016af9.chunk.js",
     "static/js/629.f5dcc029.chunk.js": "/static/js/629.f5dcc029.chunk.js",
     "static/js/331.7b081b98.chunk.js": "/static/js/331.7b081b98.chunk.js",
@@ -32,6 +32,7 @@
     "static/media/mining-card.png": "/static/media/mining-card.cebb8601a369207950d8.png",
     "static/media/bg-staking.png": "/static/media/bg-staking.4655fe72ebc262880661.png",
     "static/media/bg-box.png": "/static/media/bg-box.ce17e9954d701ec5ec97.png",
+    "static/media/adventure-modal.png": "/static/media/adventure-modal.a798762592df082746a0.png",
     "static/media/start-modal-bg.png": "/static/media/start-modal-bg.a798762592df082746a0.png",
     "static/media/title-mining.png": "/static/media/title-mining.42fd24d917605354b498.png",
     "static/media/bg-dialog.png": "/static/media/bg-dialog.3128d14247ea2c993d06.png",
@@ -51,7 +52,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.115215f2.css",
-    "static/js/main.d1051cea.js"
+    "static/css/main.464adf7f.css",
+    "static/js/main.36a656da.js"
   ]
 }
